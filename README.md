@@ -1,6 +1,6 @@
-# catlog
+# Catlog
 
-A new Flutter project.
+A new Flutter Shopping App.
 
 ## Getting Started
 
