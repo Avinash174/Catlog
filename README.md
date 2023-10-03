@@ -1,4 +1,4 @@
-# Catlog
+# CATLOG
 
 A New Flutter Shopping App.
 
