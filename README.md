@@ -1,6 +1,6 @@
 # Catlog
 
-A new Flutter Shopping App.
+A New Flutter Shopping App.
 
 ## Getting Started
 
